@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">戒抖助手</string>
+    <string name="service_label">戒抖助手 · 抖音管控</string>
+    <string name="service_description">监控抖音使用时长，达到设定时长后自动退出抖音并进入冷却期。仅识别应用切换，不读取任何个人内容。</string>
+</resources>

@@ -1,0 +1,7 @@
+# Windows 批处理必须保持 CRLF，否则双击运行会报错
+*.bat text eol=crlf
+
+# 二进制资源不做换行转换
+*.png binary
+*.apk binary
+*.keystore binary
